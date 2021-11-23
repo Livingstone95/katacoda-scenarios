@@ -1,1 +1,1 @@
-`sudo chown -R $USER:$USER /home/ubuntu/test-user` {{execute}}
+`sudo chown -R $USER:$USER /home/ubuntu/test-user`{{execute}}

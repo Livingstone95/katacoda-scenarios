@@ -1,6 +1,6 @@
 ### write in your file
 
-`sudo vi //home/ubuntu/test-user/test-file` {{execute}}
+`sudo vi //home/ubuntu/test-user/test-file`{{execute}}
 
 
 To save and close the file, simply follow the steps below:

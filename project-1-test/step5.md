@@ -1,1 +1,1 @@
-`sudo mkdir /home/ubuntu/test-user` {{execute}}
+`sudo mkdir /home/ubuntu/test-user`{{execute}}
