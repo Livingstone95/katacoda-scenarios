@@ -1,3 +1,3 @@
 `echo "Run in Terminal"`{{execute}}
 
-`pwd` {{execute}}
+`pwd`{{execute}}
